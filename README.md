@@ -42,21 +42,4 @@ I am **Maaz**, a BSAI student at **FAST-NUCES Multan**. This repository is a 100
 * **Goal:** Building end-to-end agentic systems.
 
 ---
-
-## 📈 Daily Progress Log
-
-| Day | Topic | Project/Task | Status |
-| :--- | :--- | :--- | :--- |
-| 1 | Environment Setup | Initialize Repo & Install AI Libraries | ✅ Done |
-| 2 | Data Basics | Cleaning Car Dataset with Pandas | ⏳ In Progress |
-| 3 | NumPy Mastery | Matrix Operations for AI | ⬜ Pending |
-
----
-
-## 🔗 Connect With Me
-* **LinkedIn:** [Insert Your Link]
-* **Instagram:** [Insert Your Link]
-* **Portfolio:** [Insert Link to CarVerse or others]
-
----
 *Follow my journey as I build in public. Let's revolutionize the future with AI.*
